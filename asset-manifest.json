@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Typing-Speed-React/static/css/main.93771a0a.chunk.css",
+    "main.js": "/Typing-Speed-React/static/js/main.30feb6a6.chunk.js",
+    "main.js.map": "/Typing-Speed-React/static/js/main.30feb6a6.chunk.js.map",
+    "runtime-main.js": "/Typing-Speed-React/static/js/runtime-main.8ef21c32.js",
+    "runtime-main.js.map": "/Typing-Speed-React/static/js/runtime-main.8ef21c32.js.map",
+    "static/js/2.5b3fd2cd.chunk.js": "/Typing-Speed-React/static/js/2.5b3fd2cd.chunk.js",
+    "static/js/2.5b3fd2cd.chunk.js.map": "/Typing-Speed-React/static/js/2.5b3fd2cd.chunk.js.map",
+    "index.html": "/Typing-Speed-React/index.html",
+    "precache-manifest.55dea20c775775254e21617c3bfa80cc.js": "/Typing-Speed-React/precache-manifest.55dea20c775775254e21617c3bfa80cc.js",
+    "service-worker.js": "/Typing-Speed-React/service-worker.js",
+    "static/css/main.93771a0a.chunk.css.map": "/Typing-Speed-React/static/css/main.93771a0a.chunk.css.map",
+    "static/js/2.5b3fd2cd.chunk.js.LICENSE.txt": "/Typing-Speed-React/static/js/2.5b3fd2cd.chunk.js.LICENSE.txt",
+    "static/media/speed.svg": "/Typing-Speed-React/static/media/speed.1f766eca.svg",
+    "static/media/target.svg": "/Typing-Speed-React/static/media/target.a17d4568.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef21c32.js",
+    "static/js/2.5b3fd2cd.chunk.js",
+    "static/css/main.93771a0a.chunk.css",
+    "static/js/main.30feb6a6.chunk.js"
+  ]
+}
